@@ -1,6 +1,6 @@
 # 📦 Microservice-project
 
-Une courte description du projet, par exemple :
+Une courte description du projet :
 
 > Application web pour la gestion de changement de nom de bénéficiaire d'une police d'assurance
 
